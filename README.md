@@ -6,6 +6,11 @@
 
 Get_RedNote 是一个用于自动化获取与整理小红书商品消耗明细的工具。通过调用相关接口，帮助用户快速获取商品消耗数据，并可输出为 Excel 等格式，便于后续分析与处理。
 
+## 准备工作
+登录小红书开放平台，https://ad-market.xiaohongshu.com/  添加应用，更新最新刷新码，就可以运行拉取数据啦
+![image](https://github.com/user-attachments/assets/75f0b349-4b6e-4165-9942-3523a97679d3)
+
+
 ## 功能特性
 
 - 拉取小红书商品消耗明细数据
